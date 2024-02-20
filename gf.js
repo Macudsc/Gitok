@@ -1,0 +1,1 @@
+getSnapshotBeforeUpdate = (prevProps, prevState) => { first }
